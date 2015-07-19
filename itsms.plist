@@ -30,7 +30,7 @@
                     <!-- 注意：应用程序identifier -->
                     <string>com.s361.itsms.app.apple</string>
                     <key>bundle-version</key>
-                    <string>1.4.0</string>
+                    <string>1.4.4</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
